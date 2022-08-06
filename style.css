@@ -168,7 +168,7 @@ button {
 .btn-red {
   background-color: #e7332b;
   color: #fff;
-  margin-right: 15px; 
+  margin-right: 85px; 
 }
 
 button:not(:disabled) {
